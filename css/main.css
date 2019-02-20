@@ -1,0 +1,17 @@
+#Horizontal{
+	width: 90%;
+	margin: 0 auto;
+	display: block;
+}
+
+
+@media screen and (max-width: 600px){
+	body{
+		background: #000;
+	}
+
+	#name_group path{
+		fill: #fff;
+	}
+
+}
